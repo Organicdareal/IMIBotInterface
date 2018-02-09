@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return render_template('home.html', test="YO RAP !")
+    return render_template('home.html', test=Flask.static_url_path)
 
 
 @app.route('/config')
