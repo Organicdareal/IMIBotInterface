@@ -1,0 +1,28 @@
+.online{
+    color:green;
+}
+#videoStream{
+    width: 100%;
+    height:100%;
+    border: 1px solid black;
+}
+#joystickContainer{
+    width:100%;
+    height:15em;
+    border:1px solid gray;
+    background-color: #343A40;
+    border-radius: 15px;
+}
+#commandContainer{
+    width:100%;
+    height:20em;
+    border:1px solid gray;
+    background-color: #343A40;
+    border-radius: 15px;
+    margin-top:10px;
+}
+#contentWindow{
+    padding:1em;
+}
+#joystick{
+}
