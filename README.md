@@ -20,3 +20,5 @@ OR
 
 > cd /var/web/IMIBotInterface/IMIBotInterface
 > flask run
+
+Go to http://ROBOT_IP:5000
