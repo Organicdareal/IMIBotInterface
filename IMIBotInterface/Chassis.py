@@ -1,9 +1,10 @@
 from __future__ import division
 import RPi.GPIO as GPIO
 import Adafruit_PCA9685
+from Adafruit_Python_PCA9685 import Adafruit_PCA9685
+
 
 class Chassis:
-
 
     def __init__(self):
         self.pwm = Adafruit_PCA9685.PCA9685()
@@ -18,45 +19,35 @@ class Chassis:
         GPIO.output(19, False)
         GPIO.output(6, False)
 
-
     def stop(self):
-        #print 'stop'
         GPIO.output(26, False)
         GPIO.output(13, False)
         GPIO.output(19, False)
         GPIO.output(6, False)
 
-    def forward(self, tf = 0.1):
-        #print 'forward'
+    def forward(self):
         GPIO.output(26, False)
         GPIO.output(13, False)
         GPIO.output(19, True)
         GPIO.output(6, True)
-        #time.sleep(tf)
 
-    def reverse(self, tf = 0.1):
-        #print 'reverse'
+    def reverse(self):
         GPIO.output(19, False)
         GPIO.output(6, False)
         GPIO.output(26, True)
         GPIO.output(13, True)
-        #time.sleep(tf)
 
-    def turnLeft(self, tf = 0.1):
-        #print 'left'
+    def turnLeft(self):
         GPIO.output(26, False)
         GPIO.output(6, False)
         GPIO.output(13, True)
         GPIO.output(19, True)
-        #time.sleep(tf)
 
-    def turnRight(self, tf = 0.1):
-        #print 'right'
+    def turnRight(self):
         GPIO.output(13, False)
         GPIO.output(6, True)
         GPIO.output(19, False)
         GPIO.output(26, True)
-        #time.sleep(tf)
 
     def setLeftSpeed(self, freq):
         self.pwm.set_pwm(0, 0, freq)

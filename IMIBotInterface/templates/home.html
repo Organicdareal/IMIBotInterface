@@ -10,9 +10,7 @@
     <div class="row content">
         <div class="col-sm-8">
 
-            <img id="videoStream" src="192.168.1.6:8081">
-
-            {{ test }}
+            <img id="videoStream" src="http://imibotyom:8081">
 
         </div>
         <div class="col-sm-4 sidenav">
@@ -55,7 +53,16 @@
             angle: angleEvt,
             strength: strengthEvt
         }, function(data) {
-            console.log(data);
+            //console.log(data);
+        });
+    });
+
+    $(".front").click(function() {
+        $.getJSON($SCRIPT_ROOT + '/_move', {
+            angle: 0,
+            strength: 0
+        }, function(data) {
+            //console.log(data);
         });
     });
 </script>

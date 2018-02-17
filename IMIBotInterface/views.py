@@ -1,7 +1,8 @@
 from IMIBotInterface import app
 from flask import Flask, jsonify, request, render_template
+from IMIBotInterface.ControlsHandler import ControlsHandler
 
-from ControlsHandler import ControlsHandler
+handler = ControlsHandler()
 
 @app.route('/')
 def home():
@@ -17,7 +18,7 @@ def config():
 def move():
     angle = request.args.get('angle', 0, type=float)
     strength = request.args.get('strength', 0, type=float)
-    ControlsHandler.move(angle, strength)
+    handler.move(angle, strength)
     return jsonify(angle, strength)
 
 

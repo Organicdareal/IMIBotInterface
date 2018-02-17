@@ -1,6 +1,6 @@
 from __future__ import division
 import math
-from Chassis import Chassis
+from IMIBotInterface.Chassis import Chassis
 
 
 class ControlsHandler:
