@@ -1,13 +1,12 @@
 from __future__ import division
 import RPi.GPIO as GPIO
-import Adafruit_PCA9685
-from Adafruit_Python_PCA9685 import Adafruit_PCA9685
+from Adafruit_PCA9685 import PCA9685
 
 
 class Chassis:
 
     def __init__(self):
-        self.pwm = Adafruit_PCA9685.PCA9685()
+        self.pwm = PCA9685()
         self.pwm.set_pwm_freq(60)
         GPIO.setmode(GPIO.BCM)
         GPIO.setup(26, GPIO.OUT)
