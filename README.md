@@ -2,7 +2,7 @@
 
 #Install pip
 
-Download [get-pip] {https://bootstrap.pypa.io/get-pip.py}
+Download [get-pip] (https://bootstrap.pypa.io/get-pip.py)
 > python get-pip.py
 
 #Install Flask
@@ -15,6 +15,8 @@ Répertoire du site sur le Pi :
 > git clone https://github.com/Organicdareal/IMIBotInterface.git
 
 > sudo python2.7 /var/web/IMIBotInterface/setup.py --help
--- OR
+
+OR
+
 > cd /var/web/IMIBotInterface/IMIBotInterface
 > flask run
