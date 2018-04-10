@@ -8,42 +8,16 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/IMIBotInterface.egg-info/PKG-INFO" afterPath="$PROJECT_DIR$/IMIBotInterface.egg-info/PKG-INFO" />
+      <change beforePath="$PROJECT_DIR$/IMIBotInterface.egg-info/SOURCES.txt" afterPath="$PROJECT_DIR$/IMIBotInterface.egg-info/SOURCES.txt" />
+      <change beforePath="$PROJECT_DIR$/IMIBotInterface.egg-info/dependency_links.txt" afterPath="$PROJECT_DIR$/IMIBotInterface.egg-info/dependency_links.txt" />
+      <change beforePath="$PROJECT_DIR$/IMIBotInterface.egg-info/requires.txt" afterPath="$PROJECT_DIR$/IMIBotInterface.egg-info/requires.txt" />
+      <change beforePath="$PROJECT_DIR$/IMIBotInterface.egg-info/top_level.txt" afterPath="$PROJECT_DIR$/IMIBotInterface.egg-info/top_level.txt" />
       <change beforePath="$PROJECT_DIR$/IMIBotInterface/.gitignore" afterPath="$PROJECT_DIR$/IMIBotInterface/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/Adafruit_Python_PCA9685" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/Chassis.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/ControlsHandler.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/IMIBotInterface/__init__.py" afterPath="$PROJECT_DIR$/IMIBotInterface/__init__.py" />
       <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/css/main.css" afterPath="$PROJECT_DIR$/IMIBotInterface/static/css/main.css" />
       <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/img/icon.png" afterPath="$PROJECT_DIR$/IMIBotInterface/static/img/icon.png" />
       <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/img/iconW.png" afterPath="$PROJECT_DIR$/IMIBotInterface/static/img/iconW.png" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/.editorconfig" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/.editorconfig" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/.eslintrc" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/.eslintrc" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/.gitattributes" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/.gitattributes" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/.jscsrc" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/.jscsrc" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/CHANGELOG.md" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/CHANGELOG.md" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/LICENSE" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/README.md" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/README.md" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bin/bowerSync.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bin/bowerSync.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bin/changelog.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bin/changelog.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bin/clean.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bin/clean.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bin/copyToGhPages.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bin/copyToGhPages.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bin/copyToTest.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bin/copyToTest.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bower.json" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/bower.json" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/package.json" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/package.json" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/collection.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/collection.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/end.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/end.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/manager.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/manager.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/nipple.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/nipple.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/start.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/start.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/super.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/super.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/utils.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/src/utils.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/.eslintrc" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/.eslintrc" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/index.html" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/index.html" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/index2.html" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/index2.html" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/nipplejs.casper.js" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/nipplejs.casper.js" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/nipplejs.jpg" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/nipplejs.jpg" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/nipplejs.png" afterPath="$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/test/nipplejs.png" />
-      <change beforePath="$PROJECT_DIR$/IMIBotInterface/static/package.json" afterPath="" />
       <change beforePath="$PROJECT_DIR$/IMIBotInterface/templates/config.html" afterPath="$PROJECT_DIR$/IMIBotInterface/templates/config.html" />
       <change beforePath="$PROJECT_DIR$/IMIBotInterface/templates/home.html" afterPath="$PROJECT_DIR$/IMIBotInterface/templates/home.html" />
       <change beforePath="$PROJECT_DIR$/IMIBotInterface/templates/layout.html" afterPath="$PROJECT_DIR$/IMIBotInterface/templates/layout.html" />
@@ -99,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IMIBotInterface/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="217">
@@ -107,6 +81,16 @@
               <folding>
                 <element signature="e#559#767#0#HTML" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -151,12 +135,12 @@
         <option value="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1082157870/1769890501/setup.py" />
         <option value="$PROJECT_DIR$/IMIBotInterface/ControlsHandler.py" />
         <option value="$PROJECT_DIR$/IMIBotInterface/Chassis.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/IMIBotInterface/__init__.py" />
         <option value="$PROJECT_DIR$/IMIBotInterface/views.py" />
         <option value="$PROJECT_DIR$/IMIBotInterface/templates/layout.html" />
         <option value="$PROJECT_DIR$/IMIBotInterface/templates/home.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -169,7 +153,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/IMIBotInterface/static/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -229,40 +213,6 @@
               <item name="IMIBotInterface" type="462c0819:PsiDirectoryNode" />
               <item name="IMIBotInterface" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IMIBotInterface" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IMIBotInterface" type="462c0819:PsiDirectoryNode" />
-              <item name="IMIBotInterface" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IMIBotInterface" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IMIBotInterface" type="462c0819:PsiDirectoryNode" />
-              <item name="IMIBotInterface" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="roslibjs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IMIBotInterface" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IMIBotInterface" type="462c0819:PsiDirectoryNode" />
-              <item name="IMIBotInterface" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="roslibjs" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IMIBotInterface" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IMIBotInterface" type="462c0819:PsiDirectoryNode" />
-              <item name="IMIBotInterface" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="roslibjs" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="roslib.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -338,7 +288,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -616,13 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IMIBotInterface/static/node_modules/nipplejs/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-441">
@@ -690,6 +633,14 @@
           <folding>
             <element signature="e#559#767#0#HTML" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
