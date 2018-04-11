@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nipplejs": "^0.6.8"
+    "nipplejs": "^0.6.8",
+    "roslib": "^0.20.0"
   }
 }

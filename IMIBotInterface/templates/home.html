@@ -10,7 +10,7 @@
     <div class="row content">
         <div class="col-sm-8">
 
-            <img id="videoStream" src="http://imibotyom:8081">
+            <img id="videoStream" src="http://192.168.1.19:8081">
 
         </div>
         <div class="col-sm-4 sidenav">
@@ -44,7 +44,7 @@
     joystick = nipplejs.create(sampleJoystick);
 
     var ros = new ROSLIB.Ros({
-        url : 'ws://imibotyom:9090'
+        url : 'ws://192.168.1.19:9090'
     });
 
     ros.on('connection', function() {
