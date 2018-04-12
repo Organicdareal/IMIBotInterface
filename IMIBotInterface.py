@@ -1,5 +1,5 @@
-from IMIBotInterface import app
-from flask import Flask, jsonify, request, render_template
+from flask import jsonify, request, render_template, Flask
+app = Flask(__name__)
 
 
 @app.route('/')
@@ -21,5 +21,5 @@ def move():
 
 
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', debug=True)
+    app.run(host='0.0.0.0', debug=True)
 
