@@ -10,7 +10,7 @@
     <div class="row content">
         <div class="col-sm-8">
 
-            <img id="videoStream" src="http://192.168.1.19:8081">
+            <img id="videoStream" src="">
 
         </div>
         <div class="col-sm-4 sidenav">
@@ -43,8 +43,12 @@
     var joystick, angleEvt, strengthEvt;
     joystick = nipplejs.create(sampleJoystick);
 
+    var address = window.location.host;
+    address = address.substr(0, address.indexOf(":"));
+    var imgVideo = document.getElementById("videoStream");
+    imgVideo.src = "http://" + address + ":8080/stream?topic=/webcam/image_raw"
     var ros = new ROSLIB.Ros({
-        url : 'ws://192.168.1.19:9090'
+        url : address + ':9090'
     });
 
     ros.on('connection', function() {
